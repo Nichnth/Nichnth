@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Nicholas Abel Nathaniel</h1>
-<h3 align="center">Software Dev Enthusiast | Computer Science Student</h3>
+<h1 align="left">Hi! I'm Nicholas Abel Nathaniel</h1>
+<h3 align="left">Software Dev Enthusiast | Computer Science Student</h3>
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
