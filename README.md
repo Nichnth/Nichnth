@@ -1,9 +1,11 @@
 <h1 align="left">Hi! I'm Nicholas Abel Nathaniel</h1>
 <h3 align="left">Software Dev Enthusiast | Computer Science Student</h3>
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 👨‍💻 I’m currently learning **data structures and algorithms**
 
 - 📫 Get in touch >> **nicholasaabel@gmail.com**
+
+- 🌱 Still learning and never stop doing it
 
 <h3 align="left">Programming Language</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
