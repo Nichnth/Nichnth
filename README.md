@@ -4,6 +4,8 @@
 - 👨‍💻 I’m currently learning **data structures and algorithms**
 
 - 📫 Get in touch >> **nicholasaabel@gmail.com**
+  
+- 🖥️ Personal Website >> **nicholasaabel.com**
 
 - 🌱 Still learning and never stop doing it
 
